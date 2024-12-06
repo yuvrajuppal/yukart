@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394646613806",
+    "project_id": "yukart-cc08b",
+    "storage_bucket": "yukart-cc08b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394646613806:android:c160d70f8fdb56a00514bf",
+        "android_client_info": {
+          "package_name": "com.example.yukart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI2ApIzUinYxGzX2w_2Te8nmJurkyKUlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
